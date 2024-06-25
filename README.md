@@ -10,8 +10,8 @@ This project is a solution to the [Recipe page challenge on Frontend Mentor](htt
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-and-html5--cMyfDwiIN)
+- [Live Site URL](https://kenzycodex.github.io/recipe/)
 
 ## Project Details
 
@@ -48,7 +48,7 @@ In future projects, I aim to focus on:
 ## Author
 
 - [Kenzy Codex ❤](https://wa.me/2347064538411)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kenzycodex)
+- Frontend Mentor - [@kenzycodex](https://www.frontendmentor.io/profile/kenzycodex)
 
 ## Acknowledgments
 
